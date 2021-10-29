@@ -1,4 +1,6 @@
-<img align="center" src="standard.gif" alt="banner" /> 
+<p align="center">
+    <img src="standard.gif" alt="banner" /> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Matthias Bruns</h1>
 <h3 align="center">I am a developer who loves music. Besides my daily Android development life, I work a lot with Unity as a hobby.</h3>
