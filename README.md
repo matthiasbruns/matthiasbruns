@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Matthias Bruns</h1>
 <h3 align="center">I am a developer who loves music. Besides my daily Android development life, I work a lot with Unity as a hobby.</h3>
 
+<p><img img align="center" width="960" height="420" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/></p>
+
 - 🔭 I’m currently working on [awin-go](https://github.com/matthiasbruns/awin-go)
 
 - 🌱 I’m currently learning **ue5, aws, devops**
@@ -41,5 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthiasbruns&show_icons=true&locale=en" alt="matthiasbruns" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasbruns&" alt="matthiasbruns" /></p>
-
-<p><img img align="center" width="960" height="420" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/></p>
