@@ -1,5 +1,3 @@
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-
 <p align="center">
     <img src="standard.gif" alt="banner" /> 
 </p>
@@ -44,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasbruns&" alt="matthiasbruns" /></p>
 
-<p><img img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/></p>
+<p><img img align="center" width="960" height="420" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/></p>
