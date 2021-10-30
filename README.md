@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Matthias Bruns</h1>
 <h3 align="center">I am a developer who loves music. Besides my daily Android development life, I work a lot with Unity as a hobby.</h3>
 
-<p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns"/></p>
+<p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&show-avatar=false&badges=2"/></p>
 
 - 🔭 I’m currently working on [awin-go](https://github.com/matthiasbruns/awin-go)
 
