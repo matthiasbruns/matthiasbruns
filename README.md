@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate you Jekyll releases with CircleCI for GitHub Pages](https://medium.com/@mtrax/automate-you-jekyll-releases-with-circleci-for-github-pages-289e5b89eb2c?source=rss-cd3ea1607e37------2)
-- [Android Dagger 2 Tutorial](https://medium.com/@mtrax/android-dagger-2-tutorial-3db22bfc0f9?source=rss-cd3ea1607e37------2)
-- [Android Kotlin Clean-Architecture with MVPVM](https://medium.com/@mtrax/android-kotlin-clean-architecture-with-mvpvm-6c46e3c92a60?source=rss-cd3ea1607e37------2)
-- [RxAndroid 2 with Retrofit 2 and GSON](https://medium.com/@mtrax/rxandroid-2-with-retrofit-2-and-gson-3f08d4c2627d?source=rss-cd3ea1607e37------2)
+- [Don’t overwork yourself — a story about work-life balance](https://medium.com/@MTrax/dont-overwork-yourself-a-story-about-work-life-balance-5da3f1762f5a?source=rss-cd3ea1607e37------2)
+- [Automate you Jekyll releases with CircleCI for GitHub Pages](https://medium.com/@MTrax/automate-you-jekyll-releases-with-circleci-for-github-pages-289e5b89eb2c?source=rss-cd3ea1607e37------2)
+- [Android Dagger 2 Tutorial](https://medium.com/@MTrax/android-dagger-2-tutorial-3db22bfc0f9?source=rss-cd3ea1607e37------2)
+- [Android Kotlin Clean-Architecture with MVPVM](https://medium.com/@MTrax/android-kotlin-clean-architecture-with-mvpvm-6c46e3c92a60?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
