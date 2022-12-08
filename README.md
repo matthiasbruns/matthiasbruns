@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A brief introduction to AWS EventBridge with Lambda](https://medium.com/@MTrax/a-brief-introduction-to-aws-eventbridge-with-lambda-78227555b205?source=rss-cd3ea1607e37------2)
 - [Clean architecture in Golang: A practical approach to building maintainable software](https://medium.com/@MTrax/clean-architecture-in-golang-a-practical-approach-to-building-maintainable-software-19e4d16c635b?source=rss-cd3ea1607e37------2)
 - [Don’t overwork yourself — a story about work-life balance](https://medium.com/@MTrax/dont-overwork-yourself-a-story-about-work-life-balance-5da3f1762f5a?source=rss-cd3ea1607e37------2)
 - [Automate you Jekyll releases with CircleCI for GitHub Pages](https://medium.com/@MTrax/automate-you-jekyll-releases-with-circleci-for-github-pages-289e5b89eb2c?source=rss-cd3ea1607e37------2)
-- [Android Dagger 2 Tutorial](https://medium.com/@MTrax/android-dagger-2-tutorial-3db22bfc0f9?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
