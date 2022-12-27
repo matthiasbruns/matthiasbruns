@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trello is dead — long live Notion.so](https://medium.com/@MTrax/trello-is-dead-long-live-notion-so-a6e240e7b729?source=rss-cd3ea1607e37------2)
 - [Many Davids vs one Goliath —What to consider while picking microservices over monoliths](https://medium.com/@MTrax/many-davids-vs-one-goliath-what-to-consider-while-picking-microservices-over-monoliths-4aa4224ae483?source=rss-cd3ea1607e37------2)
 - [Golang Memory Management](https://medium.com/@MTrax/golang-memory-management-3c515fed1f83?source=rss-cd3ea1607e37------2)
 - [A brief introduction to AWS EventBridge with Lambda](https://medium.com/@MTrax/a-brief-introduction-to-aws-eventbridge-with-lambda-78227555b205?source=rss-cd3ea1607e37------2)
-- [Clean architecture in Golang: A practical approach to building maintainable software](https://medium.com/@MTrax/clean-architecture-in-golang-a-practical-approach-to-building-maintainable-software-19e4d16c635b?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
