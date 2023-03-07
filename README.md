@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Patterns — Prototype](https://medium.com/@MTrax/golang-patterns-prototype-a7701a77e937?source=rss-cd3ea1607e37------2)
 - [Golang Patterns — Singleton](https://medium.com/@MTrax/golang-patterns-singleton-91170817336b?source=rss-cd3ea1607e37------2)
 - [Golang — The Ultimate Guide to Dependency Injection](https://medium.com/@MTrax/golang-the-ultimate-guide-to-dependency-injection-4556b97f9cbd?source=rss-cd3ea1607e37------2)
 - [Trello is dead — long live Notion.so](https://medium.com/@MTrax/trello-is-dead-long-live-notion-so-a6e240e7b729?source=rss-cd3ea1607e37------2)
-- [Many Davids vs one Goliath —What to consider while picking microservices over monoliths](https://medium.com/@MTrax/many-davids-vs-one-goliath-what-to-consider-while-picking-microservices-over-monoliths-4aa4224ae483?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
