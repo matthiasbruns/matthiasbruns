@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang — Adapter Pattern](https://medium.com/@MTrax/golang-adapter-pattern-904598fe615d?source=rss-cd3ea1607e37------2)
 - [Golang — Abstract Factory Pattern](https://medium.com/@MTrax/golang-abstract-factory-pattern-ec9132b589ab?source=rss-cd3ea1607e37------2)
 - [Golang — Factory Method Pattern](https://medium.com/@MTrax/golang-factory-method-pattern-7c25c0c7cdbd?source=rss-cd3ea1607e37------2)
 - [Golang — Options vs Builder Pattern](https://medium.com/@MTrax/golang-options-vs-builder-pattern-4123bfcc3c5c?source=rss-cd3ea1607e37------2)
-- [Golang Patterns — Prototype](https://medium.com/@MTrax/golang-patterns-prototype-a7701a77e937?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
