@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang — State Pattern](https://medium.com/@MTrax/golang-state-pattern-686ea58e2b48?source=rss-cd3ea1607e37------2)
 - [Golang — Observer Pattern vs Channels](https://medium.com/@MTrax/golang-observer-pattern-vs-channels-a3fd33de8434?source=rss-cd3ea1607e37------2)
 - [Golang — Memento Pattern](https://medium.com/@MTrax/golang-memento-pattern-b75b8e305462?source=rss-cd3ea1607e37------2)
 - [Golang — Mediator Pattern](https://medium.com/@MTrax/golang-mediator-pattern-ea32ef3cae7c?source=rss-cd3ea1607e37------2)
-- [Golang — Iterator Pattern](https://medium.com/@MTrax/golang-iterator-pattern-47f0daa654de?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
