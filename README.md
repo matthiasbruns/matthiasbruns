@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Golang Design Patterns — Overview](https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204?source=rss-cd3ea1607e37------2)
 - [Golang — Visitor Pattern](https://medium.com/@MTrax/golang-visitor-pattern-e3543f119987?source=rss-cd3ea1607e37------2)
 - [Golang — Template Method Pattern](https://medium.com/@MTrax/golang-template-method-pattern-fce5edf52b2d?source=rss-cd3ea1607e37------2)
 - [Golang — Strategy Pattern](https://medium.com/@MTrax/golang-strategy-pattern-3f230d56ee73?source=rss-cd3ea1607e37------2)
-- [Golang — State Pattern](https://medium.com/@MTrax/golang-state-pattern-686ea58e2b48?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
