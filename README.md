@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Golang Game Engine — OpenGL](https://medium.com/@MTrax/writing-golang-game-engine-opengl-f8e2401e003b?source=rss-cd3ea1607e37------2)
 - [Running multiple Golang AWS lambda functions on ARM64 with serverless.com](https://medium.com/@MTrax/running-multiple-golang-aws-lambda-functions-on-arm64-with-serverless-com-c69d037d98fe?source=rss-cd3ea1607e37------2)
 - [Golang Design Patterns — Overview](https://medium.com/@MTrax/golang-design-patterns-overview-4a40a66db204?source=rss-cd3ea1607e37------2)
 - [Golang — Visitor Pattern](https://medium.com/@MTrax/golang-visitor-pattern-e3543f119987?source=rss-cd3ea1607e37------2)
-- [Golang — Template Method Pattern](https://medium.com/@MTrax/golang-template-method-pattern-fce5edf52b2d?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
