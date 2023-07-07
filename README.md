@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What about Breadth First Search &lpar;BFS&rpar; Algorithm](https://medium.com/@MTrax/what-about-breadth-first-search-bfs-algorithm-8b589c103a5d?source=rss-cd3ea1607e37------2)
 - [Mastering Binary Search in Golang: A Simple Guide for Novices](https://medium.com/@MTrax/mastering-binary-search-in-golang-a-simple-guide-for-novices-345626b91e75?source=rss-cd3ea1607e37------2)
 - [Rust — Abstract Factory Pattern](https://medium.com/@MTrax/rust-abstract-factory-pattern-9fa9a1987604?source=rss-cd3ea1607e37------2)
 - [Writing Golang Game Engine — OpenGL](https://medium.com/@MTrax/writing-golang-game-engine-opengl-f8e2401e003b?source=rss-cd3ea1607e37------2)
-- [Running multiple Golang AWS lambda functions on ARM64 with serverless.com](https://medium.com/@MTrax/running-multiple-golang-aws-lambda-functions-on-arm64-with-serverless-com-c69d037d98fe?source=rss-cd3ea1607e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
