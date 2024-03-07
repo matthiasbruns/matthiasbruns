@@ -7,19 +7,17 @@
 
 <p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&show-avatar=false&badges=2"/></p>
 
-- 🔭 I’m currently working on [happyann-backend](https://github.com/happyann/happyann-backend)
+- 🔭 I’m currently working on BAYER projects
 
-- 🌱 I’m currently learning **ue5, aws, devops**
-
-- 👯 I’m looking to collaborate with [lmachens](https://github.com/lmachens)
+- 🌱 I’m currently learning **rust & devops**
 
 - 👨‍💻 All of my projects are available at [https://de.linkedin.com/in/matthiasbruns](https://de.linkedin.com/in/matthiasbruns)
 
 - 📝 I regularly write articles on [https://medium.com/@mtrax](https://medium.com/@mtrax)
 
-- 💬 Ask me about **golang, flutter, mobile, kubernetes, unity3d, ue4**
+- 💬 Ask me about **golang, rust, aws, terraform**
 
-- 📫 How to reach me **https://twitter.com/MTrax**
+- 📫 How to reach me **https://twitter.com/traxdata88**
 
 - 📄 Know about my experiences [https://de.linkedin.com/in/matthiasbruns](https://de.linkedin.com/in/matthiasbruns)
 
