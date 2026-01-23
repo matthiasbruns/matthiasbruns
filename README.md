@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Matthias Bruns</h1>
-<h3 align="center">I am a developer who loves music. Besides my daily development life, I produce electronic music on [Soundcloud](https://soundcloud.com/mtrax_official).</h3>
+<h3 align="center">I am a developer who loves music. Besides my daily development life, I produce electronic music on https://soundcloud.com/mtrax_official.</h3>
 
 <p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&show-avatar=false&badges=2"/></p>
 
