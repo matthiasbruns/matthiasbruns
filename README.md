@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Matthias Bruns</h1>
-<h3 align="center">I am a developer who loves music. Besides my daily development life, I work a lot with Unity as a hobby.</h3>
+<h3 align="center">I am a developer who loves music. Besides my daily development life, I produce electronic music on [Soundcloud](https://soundcloud.com/mtrax_official).</h3>
 
 <p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=matthiasbruns&show-avatar=false&badges=2"/></p>
 
-- 🔭 I’m currently working on BAYER projects
+- 🔭 I’m currently working on SAP's open source project [OCM](https://github.com/open-component-model) 
 
-- 🌱 I’m currently learning **rust & devops**
+- 🌱 I’m currently learning **kubernetes & platform engineering**
 
 - 👨‍💻 All of my projects are available at [https://de.linkedin.com/in/matthiasbruns](https://de.linkedin.com/in/matthiasbruns)
 
 - 📝 I regularly write articles on [https://medium.com/@mtrax](https://medium.com/@mtrax)
 
-- 💬 Ask me about **golang, rust, aws, terraform**
+- 💬 Ask me about **golang, aws, terraform & kubernetes**
 
 - 📫 How to reach me **https://twitter.com/traxdata88**
 
